@@ -26,7 +26,7 @@ Genetics 56:336–347 (2024). https://doi.org/10.1038/s41588-023-01648-9
 
     @Article{,
       title = {Adjusting for genetic confounders in transcriptome-wide association studies improves discovery of risk genes of complex traits},
-      author = {{Siming Zhao} and {Wesley Crouse} and {Sheng Qian} and {Kaixuan Luo} and {Matthew Stephens} and {Xin He}},
+      author = {Siming Zhao and Wesley Crouse and Sheng Qian and Kaixuan Luo and Matthew Stephens and Xin He},
       journal = {Nature Genetics},
       doi = {10.1038/s41588-023-01648-9},
       volume = {56},
